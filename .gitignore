@@ -1,0 +1,6 @@
+.idea
+.terraform
+terraform.tfstate
+teams/app-devs/.terraform
+teams/app-devs/terraform.tfstate
+teams/app-devs/terraform.tfstate.backup
